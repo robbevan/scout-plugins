@@ -1,0 +1,7 @@
+Plugins for scoutapp.com
+
+== Mongrel Cluster Monitor
+Runs mongrel_rails cluster::status from RAILS_ROOT reporting missing Mongrels
+
+== Resource Limits
+Monitors RSS and SWAP using prstat in Joyent Accelerators, based on http://wiki.joyent.com/accelerators:kb:monitor_rss_disk
