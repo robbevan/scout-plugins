@@ -1,0 +1,9 @@
+options:
+  max_rss:
+    name: Maximum RSS
+    notes: Generate alert when RSS exceeds this limit (MB)
+    default: 1000
+  max_swap:
+    name: Maximum SWAP
+    notes: Generate alert when SWAP exceeds this limit (MB)
+    default: 1000
