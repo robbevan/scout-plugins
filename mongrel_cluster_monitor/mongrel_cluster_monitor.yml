@@ -1,0 +1,11 @@
+options:
+  app_name:
+    name: Rails app name
+    notes: Name of rails app
+  rails_root:
+    name: RAILS_ROOT
+    notes: Root of rails app
+  mongrel_rails_command:
+    name: Mongrel Rails command
+    notes: Path to mongrel_rails
+    default: mongrel_rails
